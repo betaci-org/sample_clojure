@@ -23,7 +23,7 @@ cache: true
 
 notifications:
   email:
-    varsha@shippable.com
+    test_ci2@yahoo.in
   irc: "chat.freenode.nte#test-irc"
     
 #archive: true
